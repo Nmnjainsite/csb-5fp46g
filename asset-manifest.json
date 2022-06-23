@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nmnjainsite.github.io/csb-5fp46g/static/css/main.d13d30be.chunk.css",
+    "main.js": "https://nmnjainsite.github.io/csb-5fp46g/static/js/main.1c41b7a4.chunk.js",
+    "main.js.map": "https://nmnjainsite.github.io/csb-5fp46g/static/js/main.1c41b7a4.chunk.js.map",
+    "runtime-main.js": "https://nmnjainsite.github.io/csb-5fp46g/static/js/runtime-main.75de603d.js",
+    "runtime-main.js.map": "https://nmnjainsite.github.io/csb-5fp46g/static/js/runtime-main.75de603d.js.map",
+    "static/js/2.2c8027c0.chunk.js": "https://nmnjainsite.github.io/csb-5fp46g/static/js/2.2c8027c0.chunk.js",
+    "static/js/2.2c8027c0.chunk.js.map": "https://nmnjainsite.github.io/csb-5fp46g/static/js/2.2c8027c0.chunk.js.map",
+    "index.html": "https://nmnjainsite.github.io/csb-5fp46g/index.html",
+    "static/css/main.d13d30be.chunk.css.map": "https://nmnjainsite.github.io/csb-5fp46g/static/css/main.d13d30be.chunk.css.map",
+    "static/js/2.2c8027c0.chunk.js.LICENSE.txt": "https://nmnjainsite.github.io/csb-5fp46g/static/js/2.2c8027c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75de603d.js",
+    "static/js/2.2c8027c0.chunk.js",
+    "static/css/main.d13d30be.chunk.css",
+    "static/js/main.1c41b7a4.chunk.js"
+  ]
+}

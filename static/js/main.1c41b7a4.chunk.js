@@ -1,0 +1,2 @@
+(this["webpackJsonpchallenge-1-badge"]=this["webpackJsonpchallenge-1-badge"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var n=c(1),s=c(3),o=(c(12),c(0));function r(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var a=document.getElementById("root");Object(s.createRoot)(a).render(Object(o.jsx)(n.StrictMode,{children:Object(o.jsx)(r,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.1c41b7a4.chunk.js.map
